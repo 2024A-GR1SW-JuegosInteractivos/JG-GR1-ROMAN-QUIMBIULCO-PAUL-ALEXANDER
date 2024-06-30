@@ -4,10 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Paquete
-  - Cliente
-  - Fast
-  - Slow
+  - Ground
+  - Dead
+  - Win
   layers:
   - Default
   - TransparentFX
